@@ -12,16 +12,17 @@
 
 ###
 
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmplc3g0eTFrdzdoN2JzeGl6MHJpcTkxdjRndTJmMHlhcXA1Y3FkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif"  />
+
+###
+<!--
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=C0DESbyKeshav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+-->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C0DESbyKeshav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmplc3g0eTFrdzdoN2JzeGl6MHJpcTkxdjRndTJmMHlhcXA1Y3FkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif"  />
 
 ###
 
@@ -38,6 +39,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C0DESbyKeshav/C0DESbyKeshav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C0DESbyKeshav/C0DESbyKeshav/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/C0DESbyKeshav/C0DESbyKeshav/output/github-snake.svg" />
+</picture>
 
 ###
 
