@@ -12,6 +12,18 @@
 
 ###
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C0DESbyKeshav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C0DESbyKeshav&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</div>
+
+###
+
 ## 🛠️ Tech Stack
 
 <div align="left">
@@ -133,13 +145,8 @@
 
 ###
 
-## 🎯 Visitor Count
-
 <div align="center">
-  <p style="margin: 0;">
-    <samp>👤 Profile Views: </samp>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=C0DESbyKeshav&style=plastic&label=VIEWS&color=0e75b6&abbreviated=false" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=C0DESbyKeshav&style=flat&label=Views&color=0e75b6&abbreviated=false" alt="Views" />
 </div>
 
 ###
