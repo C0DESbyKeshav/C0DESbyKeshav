@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0DESbyKeshav&layout=compact&theme=dracula" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=C0DESbyKeshav&show_icons=true&locale=en&layout=compact&theme=dark" alt="C0DESbyKeshav's Top Languages" />
 </div>
 
 ###
@@ -87,7 +87,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" title="Vercel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="40" alt="render logo" title="Render" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="40" alt="render badge" title="Render" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub" />
   <img width="12" />
@@ -99,7 +99,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo" title="CMake" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo" title="Gradle" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="40" alt="gradle badge" title="Gradle" />
 </div>
 
 <div align="left">
@@ -143,10 +143,13 @@
 
 ###
 
+## 🎯 Visitor Count
+
 <div align="center">
-  <a href="https://github.com/C0DESbyKeshav">
-    <img src="https://komarev.com/ghpvc/?username=C0DESbyKeshav&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
+  <p style="margin: 0;">
+    <samp>👤 Profile Views: </samp>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=C0DESbyKeshav&style=plastic&label=VIEWS&color=0e75b6&abbreviated=false" alt="Profile Views" />
 </div>
 
 ###
