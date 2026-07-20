@@ -19,11 +19,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=C0DESbyKeshav&show_icons=true&locale=en&layout=compact&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=C0DESbyKeshav&show_icons=true&locale=en&layout=compact&theme=default" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=C0DESbyKeshav&show_icons=true&locale=en&layout=compact&theme=dark" alt="C0DESbyKeshav's Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0DESbyKeshav&layout=compact&hide=html&theme=dark" alt="Top Languages" />
 </div>
 
 ###
