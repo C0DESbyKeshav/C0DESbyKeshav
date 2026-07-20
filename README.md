@@ -12,18 +12,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmplc3g0eTFrdzdoN2JzeGl6MHJpcTkxdjRndTJmMHlhcXA1Y3FkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif" />
-
-###
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0DESbyKeshav&layout=compact&hide=html&theme=dark" alt="Top Languages" />
-</div>
-
-###
-
 ## 🛠️ Tech Stack
 
 <div align="left">
